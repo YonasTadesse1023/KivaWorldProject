@@ -116,9 +116,9 @@ extends java.lang.Object</pre>
  motor life time that indicates how much of it's motor life has been spent.</div>
 <dl>
 <dt><span class="simpleTagLabel">Version:</span></dt>
-<dd>4/25/2021</dd>
+<dd>09/20/2018</dd>
 <dt><span class="simpleTagLabel">Author:</span></dt>
-<dd>Natan Alper</dd>
+<dd>Yonas Tadesse</dd>
 <dt><span class="seeLabel">See Also:</span></dt>
 <dd><a href="KivaCommand.html" title="enum in &lt;Unnamed&gt;"><code>KivaCommand</code></a></dd>
 </dl>
